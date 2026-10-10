@@ -11,8 +11,8 @@ export const wedding = {
   bride: { first: "Anjali", full: "Anjali Motiramani", father: "Narendra Motiramani", mother: "Madhu Motiramani" },
   groom: { first: "Hemanth", full: "Hemanth Peswani", father: "Dinesh Peswani", mother: "Karishma Peswani" },
   hashtag: "#FromTheirBondToOurForever",
-  dateLabel: "24 & 25 November, 2026",
-  framedDateLabel: "24 & 25 NOVEMBER, 2026",
+  dateLabel: "23 & 24 November, 2026",
+  framedDateLabel: "23 & 24 NOVEMBER, 2026",
   /** ISO date/time used by the countdown (IST) */
   countdownTarget: "2026-11-24T17:30:00+05:30",
   welcome: [
